@@ -4,17 +4,7 @@
 
 #define max 5
 
-int main()
 
-{
-
-               int matrix[max][max];
-
-               int s#include<stdio.h>
-
-#include<stdlib.h>
-
-#define max 5
 
 int main()
 
@@ -396,6 +386,7 @@ int main()
 
               
 
-               return 0;
+           return 0;
 
 }
+
